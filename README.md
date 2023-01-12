@@ -58,4 +58,5 @@ are captured in state.
 
 _When the form is submitted_, add a new task to the list with the text and
 category from the form. For the tests for this feature to pass, you'll need a
+category from the form. For the tests for this feature to pass, you'll need a
 callback prop named `onTaskFormSubmit` that takes a task object as an argument.
